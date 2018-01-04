@@ -21,9 +21,9 @@ Work on :
 
 Before running: 
 `
-export LD_LIBRARY_PATH=/home/a7md/mjpro150/bin\
-sudo apt install mesa-utils\
-ldd $(which glxinfo) | grep libGL.so\
+export LD_LIBRARY_PATH=/home/a7md/mjpro150/bin
+sudo apt install mesa-utils
+ldd $(which glxinfo) | grep libGL.so
 LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so.1.13:/usr/lib/nvidia-384/libGL.so.
 `
 
