@@ -13,7 +13,7 @@ Collecting resources:
 
 **Environment:**
 Using MuJoCo: Modeling, Simulation and Visualization of Multi-Joint Dynamics with Contact
-This is a physics engine to be used in conjunction with dm_control _'The DeepMind Control Suite and Control Package".
+This is a physics engine to be used in conjunction with dm_control ***'The DeepMind Control Suite and Control Package"***
 
 Work on :
 - Desktop games (including browser games).
