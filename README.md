@@ -18,3 +18,7 @@ This is a physics engine to be used in conjunction with dm_control ***'The DeepM
 Work on :
 - Desktop games (including browser games).
 - OpenAI bots that are being rendered
+
+Before running: export LD_LIBRARY_PATH=/home/a7md/mjpro150/bin
+
+Platform: Ubuntu 16.04
