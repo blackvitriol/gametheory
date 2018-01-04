@@ -20,8 +20,11 @@ Work on :
 - OpenAI bots that are being rendered
 
 Before running: 
+Get a key from MuJoCu's website and place it in the bin folder, then follow:
+https://github.com/deepmind/dm_control
+
 `
-export LD_LIBRARY_PATH=/home/a7md/mjpro150/bin
+export LD_LIBRARY_PATH=~/.mujoco/mjpro150/bin
 sudo apt install mesa-utils
 ldd $(which glxinfo) | grep libGL.so
 LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so.1.13:/usr/lib/nvidia-384/libGL.so.
