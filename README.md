@@ -5,6 +5,7 @@ Using Neuroevolution and RL to train an agent, with learnt policies being repres
 In contemporary RL, policy search methods can be broken down into gradient-based methods, also known as policy gradient methods, and methods that do not rely on the gradient. Gradient-free methods include evolutionary algorithms. ES and GA are similar terms referring to this very approach. 
 
 This project is likely to end up being the virtual agent that the [ROSCOG](https://github.com/blackvitriol/ROSCOG) project aims.
+For neuroevolutionary approach with implicit environment representations, see: (https://github.com/blackvitriol/Genetic_Programming)
 
 Collecting resources:
 - http://deap.readthedocs.io/en/master/
